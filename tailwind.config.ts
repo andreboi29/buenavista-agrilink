@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Agricultural theme colors
+				'agricultural-green': 'hsl(var(--agricultural-green))',
+				'earth-brown': 'hsl(var(--earth-brown))',
+				'harvest-gold': 'hsl(var(--harvest-gold))',
+				'sky-blue': 'hsl(var(--sky-blue))',
+				'fresh-green': 'hsl(var(--fresh-green))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
